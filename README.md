@@ -17,11 +17,14 @@ Part B: Assistant Professor Mirko Rossi, University of Helsinki, Finland
 
 Part A: 
 Docent Jenni Hultman, University of Helsinki, Finland
+
 Doctor Kaisa Koskinen, Medical University of Graz, Austria 
 
 Part B: 
 Assistant Professor Mirko Rossi, University of Helsinki, Finland
+
 Doctor João Carriço, University of Lisbon, Portugal
+
 Doctor Sion Byliss, Bath University, UK 
 
 ##Learning outcomes
