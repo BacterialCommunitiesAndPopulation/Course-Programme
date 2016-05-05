@@ -41,8 +41,3 @@ QA/QC of the raw data, cleaning and assembly
 Gene-by-gene annotation
 Genealogy reconstruction and population structure analysis
 Visualization of data
-
-Course details
-
-TBA
-
