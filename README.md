@@ -1,4 +1,4 @@
-# Course in Working with bacterial communities and population
+# Course in Working with bacterial communities and populations
 
 ## General introduction
 
@@ -26,6 +26,8 @@ Assistant Professor Mirko Rossi, University of Helsinki, Finland
 Doctor João Carriço, University of Lisbon, Portugal
 
 Doctor Sion Byliss, Bath University, UK 
+
+MSc Bruno Gonçalves, University of Lisbon, Portugal
 
 ##Learning outcomes
 
