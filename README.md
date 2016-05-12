@@ -43,3 +43,9 @@ QA/QC of the raw data, cleaning and assembly
 Gene-by-gene annotation
 Genealogy reconstruction and population structure analysis
 Visualization of data
+
+| Week 20       | Friday 13th            | Monday 16th                        | Tuesday 17th                       | Wednesday 18th                     | Thursday 19th                      | Friday 20th                        | Friday 27th              |
+|---------------|------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------------------|
+| 9:00 - 12:00  | Linux group assessment | Working with bacterial communities | Working with bacterial communities | Working with bacterial communities | Working with bacterial populations | Working with bacterial populations | Working groups reporting |
+| 12:00 - 13:00 |                        | Lunch                              | Working groups and lunch           | Working groups and lunch           | Working groups and lunch           | Working groups and lunch           |                          |
+| 13:00 - 16:30 |                        | Working with bacterial communities | Working with bacterial communities | Working with bacterial populations | Working with bacterial populations | Working with bacterial populations |                          |
