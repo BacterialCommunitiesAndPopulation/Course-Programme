@@ -4,6 +4,13 @@
 
 Microbial community structure and diversity, and population structure are fundamental aspects to understand evolution, niche adaptation and demographic history of bacterial species. As NGS sequencing has become cost effective and accessible, microbial community analysis through 16S rRNA gene sequencing has become popular tool. Moreover, sequencing populations of bacteria across the whole genome provides unprecedented resolution to investigate within-host evolution, transmission history, and population structure. During the one week course the students will learn and apply bioinformatic techniques to study microbial communities and performing population genetics. The goal is to become familiar with the analysis tools and to be able to utilize them in own research after the course. 
 
+## Schedule
+| Week 20       | [Friday 13th](https://github.com/BacterialCommunitiesAndPopulation/LinuxExam_Friday13thMay)            | [Monday 16th](https://github.com/BacterialCommunitiesAndPopulation/Monday16thMay)                        | [Tuesday 17th](https://github.com/BacterialCommunitiesAndPopulation/Tuesday17thMay)                       | [Wednesday 18th](https://github.com/BacterialCommunitiesAndPopulation/Wednesday18thMay)                     | [Thursday 19th](https://github.com/BacterialCommunitiesAndPopulation/Thursday19thMay)                      | [Friday 20th](https://github.com/BacterialCommunitiesAndPopulation/Friday20thMay)                        | Friday 27th              |
+|---------------|------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------------------|
+| 9:00 - 12:00  | Linux group assessment | Working with bacterial communities | Working with bacterial communities | Working with bacterial communities | Working with bacterial populations | Working with bacterial populations | Working groups reporting |
+| 12:00 - 13:00 |                        | Lunch                              | Working groups and lunch           | Working groups and lunch           | Working groups and lunch           | Working groups and lunch           |                          |
+| 13:00 - 16:30 |                        | Working with bacterial communities | Working with bacterial communities | Working with bacterial populations | Working with bacterial populations | Working with bacterial populations |                          |
+
 ## Target group
 
 This course is targeted at PhD and MSc students who are interested in using 16S rRNA gene-based profiling of microbial communities and/or performing bacterial population analysis using whole-genome sequencing. 
@@ -43,9 +50,3 @@ QA/QC of the raw data, cleaning and assembly
 Gene-by-gene annotation
 Genealogy reconstruction and population structure analysis
 Visualization of data
-
-| Week 20       | Friday 13th            | Monday 16th                        | Tuesday 17th                       | Wednesday 18th                     | Thursday 19th                      | Friday 20th                        | Friday 27th              |
-|---------------|------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------------------|
-| 9:00 - 12:00  | Linux group assessment | Working with bacterial communities | Working with bacterial communities | Working with bacterial communities | Working with bacterial populations | Working with bacterial populations | Working groups reporting |
-| 12:00 - 13:00 |                        | Lunch                              | Working groups and lunch           | Working groups and lunch           | Working groups and lunch           | Working groups and lunch           |                          |
-| 13:00 - 16:30 |                        | Working with bacterial communities | Working with bacterial communities | Working with bacterial populations | Working with bacterial populations | Working with bacterial populations |                          |
