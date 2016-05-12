@@ -5,6 +5,8 @@
 Microbial community structure and diversity, and population structure are fundamental aspects to understand evolution, niche adaptation and demographic history of bacterial species. As NGS sequencing has become cost effective and accessible, microbial community analysis through 16S rRNA gene sequencing has become popular tool. Moreover, sequencing populations of bacteria across the whole genome provides unprecedented resolution to investigate within-host evolution, transmission history, and population structure. During the one week course the students will learn and apply bioinformatic techniques to study microbial communities and performing population genetics. The goal is to become familiar with the analysis tools and to be able to utilize them in own research after the course. 
 
 ## Schedule
+The course will be held at the Faculty of Veterinary Medicine, University of Helsinki. EE-talo (Mustialankatu 2, 00770, Helsinki), 4th floor, room B438
+
 | Week 20       | [Friday 13th](https://github.com/BacterialCommunitiesAndPopulation/LinuxExam_Friday13thMay)            | [Monday 16th](https://github.com/BacterialCommunitiesAndPopulation/Monday16thMay)                        | [Tuesday 17th](https://github.com/BacterialCommunitiesAndPopulation/Tuesday17thMay)                       | [Wednesday 18th](https://github.com/BacterialCommunitiesAndPopulation/Wednesday18thMay)                     | [Thursday 19th](https://github.com/BacterialCommunitiesAndPopulation/Thursday19thMay)                      | [Friday 20th](https://github.com/BacterialCommunitiesAndPopulation/Friday20thMay)                        | Friday 27th              |
 |---------------|------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|--------------------------|
 | 9:00 - 12:00  | Linux group assessment | Working with bacterial communities | Working with bacterial communities | Working with bacterial communities | Working with bacterial populations | Working with bacterial populations | Working groups reporting |
@@ -18,6 +20,7 @@ This course is targeted at PhD and MSc students who are interested in using 16S 
 ## Organizers
 
 Part A: Docent Jenni Hultman, University of Helsinki, Finland
+
 Part B: Assistant Professor Mirko Rossi, University of Helsinki, Finland 
 
 ## Teachers
