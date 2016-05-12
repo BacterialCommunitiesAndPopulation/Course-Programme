@@ -53,3 +53,6 @@ QA/QC of the raw data, cleaning and assembly
 Gene-by-gene annotation
 Genealogy reconstruction and population structure analysis
 Visualization of data
+
+#Internet connection
+Inside the class room you can find both *eduroam* and *Univ. Helsinki HUPnet*. Instructions on how to connect in [HelpDesk website](http://www.helsinki.fi/helpdesk/eng/instructions/communications_and_remote_use/wireless_networks_at_the_university/)
